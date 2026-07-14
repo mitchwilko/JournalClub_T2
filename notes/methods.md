@@ -93,4 +93,43 @@
 
 # Antonini
 
+## Population Models
+
+- They have considered GWTC-4 black hole mergers with false alawrm rates between 1 yr-1
+- They used over posterior parameter-estimations samples for GWTC-1 events
+- Similar choices for both 2 and 3 populations
+- Total, found 153 events
+- Again used Bayesian inference framework
+- Some assumptions on the merger density rate?
+- Introduced consditional distribution on M2
+- Assumed the merger rate evolves as a power law in (1 + z)
+    - Leads to probability distribution in redshift (z)
+- In all models, the primary mass spectrum is gaussian, with a square exponential kernel
+- Had two descriptions of the effective spin above or beloew m1
+- They explored a mixing term between the two (parametric and non paramteric) populations
+- 
+
+## Pair instability mass gap in tar-cluster models
+
+- They have xpected a feature to appear in the presence of the PISN mass gat due to drop in total merger rate.
+    - They believe that this feature has taken the form of of a transition in the primary-mass 
+- They have estimated the mass at which this transition occurs as the lower mass gap position.
+
+
+## 
+
+# Bayesian Statistics
+
+Base on a simple concept
+    - Posterior \prop likelihood \times Prior
+    Prior: what is physically plausible before seeing data
+    Likelihood: how well a set of masses reproduces the observed waveform
+    Posterior: Updated probability after incorporating observations
+We use this to point out what is the 'most likely' mass that an event was cause by
+
+This leads to the quesions:
+    Tong -> does the underluing distribution contain a gap
+    Antonini -> Inference of additional astrophysical parameters
+
+
 
