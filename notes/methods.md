@@ -35,7 +35,7 @@
 - Extended figure 4 -> highlihts the weight of each data point
     -> Background is inferrred parametric model from signle power law + two peaks with m2 gap.
 - This gap has appeared naturally from the model as opposed to enfored
-- HIghlights the existence of the gap again
+- HIghlights the existence of the gap **again**
 - 
 
 ## Mass model misspecification test
