@@ -30,7 +30,7 @@
 
 ## Comparison with the maximum population likelihood distribution
 
-- Reference 35 introduces the \pi formalisation.
+- Reference 35 introduces the $\pi$ formalisation.
 - distrubition is given by weighted sum of delta functions
 - Extended figure 4 -> highlihts the weight of each data point
     -> Background is inferrred parametric model from signle power law + two peaks with m2 gap.
