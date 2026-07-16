@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.30)  16 JUL 2026 10:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.30)  16 JUL 2026 10:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1007,57 +1007,89 @@ Package pdftex.def Info: images/unsw-landscape.png  used on input line 185.
  <./images/ligo.jpg> <./images/kagra.jpg>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 191.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 193.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+<images/tong_paper.png, id=157, 959.585pt x 238.8925pt>
+File: images/tong_paper.png Graphic file (type png)
+<use images/tong_paper.png>
+Package pdftex.def Info: images/tong_paper.png  used on input line 193.
+(pdftex.def)             Requested size: 318.67209pt x 79.33415pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 191.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 193.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [15
 
-]
+ <./images/tong_paper.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 197.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 201.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+<images/fabio_paper.png, id=164, 756.8275pt x 157.58875pt>
+File: images/fabio_paper.png Graphic file (type png)
+<use images/fabio_paper.png>
+Package pdftex.def Info: images/fabio_paper.png  used on input line 201.
+(pdftex.def)             Requested size: 318.67209pt x 66.35513pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 197.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 201.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [16
 
-]
+ <./images/fabio_paper.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 202.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 207.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 202.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 207.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [17
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 206.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 213.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 206.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 213.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [18
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 210.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 218.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 210.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 218.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [19
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 222.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 222.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+ [20
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 226.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 226.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+ [21
 
 ]
 \tf@nav=\write6
@@ -1078,18 +1110,18 @@ Package rerunfilecheck Info: File `JC_Pres.out' has not changed.
 (rerunfilecheck)             Checksum: D3D964E6B38F2B9FE9A8D11C268588E8;1076.
  ) 
 Here is how much of TeX's memory you used:
- 27808 strings out of 474116
- 581602 string characters out of 5743682
+ 27830 strings out of 474116
+ 582069 string characters out of 5743682
  1940187 words of memory out of 5000000
- 49546 multiletter control sequences out of 15000+600000
+ 49564 multiletter control sequences out of 15000+600000
  587706 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,123p,513b,1864s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on build/JC_Pres.pdf (19 pages, 9274052 bytes).
+Output written on build/JC_Pres.pdf (21 pages, 9412533 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
- 159 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
