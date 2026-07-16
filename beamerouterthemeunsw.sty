@@ -14,21 +14,22 @@
 \setbeamertemplate{footline}
 {%
 	\leavevmode%
-	\hbox{%
+	\hbox to \paperwidth{%
 		\begin{beamercolorbox}[wd=\paperwidth,ht=0.5cm,dp=1ex,left]{pagenumber}%
 			\hspace*{1ex} \insertframenumber{} \hspace*{1ex}
 		\end{beamercolorbox}
-		\if \beamer@UNSW@sidelogo\@empty
+		\ifx \beamer@UNSW@sidelogo\@empty
 		\else
 			\llap{\includegraphics[height=0.4cm]{\beamer@UNSW@sidelogo} \hspace{2mm}}
 		\fi
+		\hss
 	}%
 }
 
 % we insert the watermark background from the sidebar
 \setbeamertemplate{sidebar right}
 {
-	\if \beamer@UNSW@background\@empty
+	\ifx \beamer@UNSW@background\@empty
 	\else
 		\vskip.1\beamer@leftmargin%
 		\vfill%
@@ -47,7 +48,7 @@
 					\includegraphics[height=2cm]{\beamer@UNSW@logo}
 				\end{beamercolorbox}
 			\column{3mm}
-			\column{0.8\paperwidth}
+			\column{\dimexpr0.8\paperwidth-3mm\relax}
 				\usebeamerfont{title}{\usebeamercolor[fg]{title}\inserttitle}\par
 				\usebeamerfont{subtitle}{\usebeamercolor[fg]{subtitle}\insertsubtitle}\par
 		\end{columns}
