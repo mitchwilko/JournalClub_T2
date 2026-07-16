@@ -8,6 +8,7 @@
 	sidelogo=images/unsw-landscape.png,
 ]{unsw}
 \usepackage[compat=1.1.0]{tikz-feynman}
+\usepackage[version=4]{mhchem}
 % uncomment to show notes. Works very nicely with dspdfviewer. You get something similar to PPT's presenter view.
 %\usepackage{pgfpages}
 %\setbeameroption{show notes on second screen}
@@ -47,34 +48,18 @@
 		\end{figure}
 	\end{frame}
 
-	\begin{frame}{Different types of stars}
-		There are three distinct classifications of stellar populations:
-		\begin{itemize}
-			\item The mass range for Population I \& II stars is $0.08-150$ M$_\odot$ 
-			\item Population I stars are younger, metal-rich.
-			\item Population II stars are older, metal-poor but rich in alpha-elements.
-			\item Population III stars are hypothesised to be the oldest and largest stars, metal-free. The typical mass range for these stars could be $\sim 100 - 300$ M$_\odot$.
-		\end{itemize}
-	\end{frame}
-
-	\begin{frame}{Nuclear processes and supernova}
-		Type Ia supernova
-		\begin{itemize}
-			\item Occurs in binary star systems where one massive star becomes an accreting white dwarf. Once the dwarf reaches the Chandrasekhar limit (1.44 M$_\odot$), igniting the carbon fusion causing a thermonuclear explosion.
-			\item The supernovae has uniform properties (light curve is consistent) and thus are useful standard candles.
-		\end{itemize}
-		Type II supernova
-		\begin{itemize}
-			\item Occurs in very massive stars, the nuclear fusion becomes unable to sustain the core against its own gravity.
-			\item Core collapse can be caused by different mechanisms: exceeding the Chandrasekhar limit, electron capture, pair-instability or photodisintegration.
-		\end{itemize}
-		The most luminous supernovae (superluminous supernova) are speculated to be pair-instability supernova (PISN). They are atleast 10 times as bright as standard supernova.
+	\begin{frame}{Nuclear Processes}
+		The main nuclear reaction in metal-poor or metal-free stars is the triple alpha process, the starting reaction is given as
+		\begin{equation}
+			\ce{^{12}_6C + ^{4}_2He -> ^{16}_8O + {\gamma}} 
+		\end{equation}
+		In astrophysical simulations of stellar evolution, the $S$-factor parameter or the $^{12}$C$(\alpha,\gamma)^{16}$O reaction rate, is important for modelling helium burning.
 	\end{frame}
 
 	\subsection{Pair Production instability}
 
 	\begin{frame}{Pair Production}
-		In supermassive stars, after helium and carbon are exhausted, the temperature in its core is too high for stable oxygen production. The instability is due to the high energies of the gamma rays which causes electron-positron pair production.
+		In supermassive stars, after sufficient helium and carbon are exhausted, the temperature in its core may get too high for stable oxygen production. Furthermore, the high energy gamma rays start producing electron-positron pairs, leading to instability of the star.
 
 		\begin{figure}
 			\centering
@@ -124,6 +109,10 @@
 	\end{frame}
 
 	\subsection{Gravitational waves}
+
+	\begin{frame}{Black hole spin}
+		
+	\end{frame}
 
 	\begin{frame}{Binary systems and gravitational waves}
 		\begin{figure}
@@ -223,6 +212,34 @@
 
 	\begin{frame}{Shortfalls and further research needed}
 		
+	\end{frame}
+
+	\begin{frame}{Appendix}
+		Appendix
+	\end{frame}
+
+	\begin{frame}{Different types of stars}
+		There are three distinct classifications of stellar populations:
+		\begin{itemize}
+			\item The mass range for Population I \& II stars is $0.08-150$ M$_\odot$ 
+			\item Population I stars are younger, metal-rich.
+			\item Population II stars are older, metal-poor but rich in alpha-elements.
+			\item Population III stars are hypothesised to be the oldest and largest stars, metal-free. The typical mass range for these stars could be $\sim 100 - 300$ M$_\odot$.
+		\end{itemize}
+	\end{frame}
+
+	\begin{frame}{Nuclear processes and supernova}
+		Type Ia supernova
+		\begin{itemize}
+			\item Occurs in binary star systems where one massive star becomes an accreting white dwarf. Once the dwarf reaches the Chandrasekhar limit (1.44 M$_\odot$), igniting the carbon fusion causing a thermonuclear explosion.
+			\item The supernovae has uniform properties (light curve is consistent) and thus are useful standard candles.
+		\end{itemize}
+		Type II supernova
+		\begin{itemize}
+			\item Occurs in very massive stars, the nuclear fusion becomes unable to sustain the core against its own gravity.
+			\item Core collapse can be caused by different mechanisms: exceeding the Chandrasekhar limit, electron capture, pair-instability or photodisintegration.
+		\end{itemize}
+		The most luminous supernovae (superluminous supernova) are speculated to be pair-instability supernova (PISN). They are atleast 10 times as bright as standard supernova.
 	\end{frame}
 
 \end{document}
