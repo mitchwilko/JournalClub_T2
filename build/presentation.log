@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.30)  15 JUL 2026 17:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.30)  17 JUL 2026 10:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -735,27 +735,17 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 21.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) in paragraph at lines 21--21
-[][][][]  
- []
-
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 25.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) in paragraph at lines 25--25
-[][][][]  
- []
-
 <images/unsw-portrait.png, id=15, 147.6717pt x 154.176pt>
 File: images/unsw-portrait.png Graphic file (type png)
 <use images/unsw-portrait.png>
 Package pdftex.def Info: images/unsw-portrait.png  used on input line 25.
 (pdftex.def)             Requested size: 54.50473pt x 56.9055pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
@@ -768,23 +758,13 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 25.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 25.
-
-Overfull \hbox (8.5358pt too wide) detected at line 25
-[][][] $[]$[][][][][][][][] $[]$[][][][][][][][] $[]$[][][][][][] 
- []
-
-[1
+ [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./images/unsw-portrait.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 38.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) in paragraph at lines 38--38
-[][][][]  
- []
-
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
@@ -795,96 +775,51 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 38.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) has occurred while \output is active
-[][][][] 
- []
-
-[2
+ [2
 
  <./images/unsw-landscape.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 53.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) in paragraph at lines 53--53
-[][][][]  
- []
-
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 53.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) has occurred while \output is active
-[][][][] 
- []
-
-[3
+ [3
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 73.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) in paragraph at lines 73--73
-[][][][]  
- []
-
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 73.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) has occurred while \output is active
-[][][][] 
- []
-
-[4
+ [4
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 93.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) in paragraph at lines 93--93
-[][][][]  
- []
-
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 93.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) has occurred while \output is active
-[][][][] 
- []
-
-[5
+ [5
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 98.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) in paragraph at lines 98--98
-[][][][]  
- []
-
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 98.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-
-Overfull \hbox (3.33588pt too wide) has occurred while \output is active
-[][][][] 
- []
-
-[6
+ [6
 
 ]
 \tf@nav=\write6
@@ -905,15 +840,15 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24646 strings out of 474116
- 490107 string characters out of 5743682
+ 24647 strings out of 474116
+ 490153 string characters out of 5743682
  1936187 words of memory out of 5000000
- 46487 multiletter control sequences out of 15000+600000
+ 46488 multiletter control sequences out of 15000+600000
  589339 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,123p,456b,639s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,16n,123p,456b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on build/presentation.pdf (6 pages, 101419 bytes).
+Output written on build/presentation.pdf (6 pages, 101471 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream

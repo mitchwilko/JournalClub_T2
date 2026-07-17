@@ -210,7 +210,275 @@
 			\item This enables better measurements for the rate of universe expansion and the Hubble parameter.
 		\end{itemize}
 	\end{frame}
+		\begin{frame}{Context for these Papers}
+		\begin{table}
+			\centering
+			\caption{What previously stopped this mass gap being characterised?}
+			\label{tab:limitations}
+			\begin{tabular}{p{0.45\textwidth}cp{0.45\textwidth}}
+				\hline
+				Limitation & & Solution \\
+				\hline
+				BH mass measurement limit & $\rightarrow$ & Gravitational wave measurement \\
+				Minimal sufficient large BH measurements & $\rightarrow$ & GWTC-4 Library, 218 (90 previous + 128 new) \\
+				Accuracy of Individual Mass Measurement & $\rightarrow$ & Progressively improved measurements \\
+				Contamition of data with 2nd gen BH
+			\end{tabular}
+		\end{table}
+	\end{frame}
 
+	\begin{frame}{Unified Objectives for these Papers}
+		\begin{enumerate}
+			\item[] \textbf{Combined}
+			\item Characterise the POPLATION of first gen black holes
+			\item Estimate the position of the lower mass gap boundary
+			\item Estimate the $^{12}C(\alpha , \gamma)^{16}O$ rate
+			\item Justify the choice seperation between first and second generation black holes.
+			% \item[] \textbf{Tong}
+			% \item Justify their choice of model
+			% \item[] \textbf{Antonini}
+			% \item Provide estimations of parameters in addition to the mass
+		\end{enumerate}
+	\end{frame}
+
+	\begin{frame}{Theory - Bayesian Statistics}
+		Based on Bayes' Theorem
+		\begin{equation}
+			P(A|B) = \frac{P(B|A) P(A)}{P(B)}
+		\end{equation}
+
+		A $\rightarrow$ Parameters of the model
+
+		B $\rightarrow$ Observed gravitational waves
+
+		As the measurements have been made, P(B) is fixed, and we can consider the proportionality form of Bayes' theorm,
+		\begin{align*}
+			P(A|B) &\propto P(B|A) P(A)
+		\end{align*}
+		"Posterior is proportional to the likelihood times the prior"
+		
+		% Formal Construction
+		% \begin{equation*}
+		% 	\pi (\theta | x) = \mathcal{L} (x | \theta) \cdot 
+		% 		\frac{\pi(\theta)}{\int_\Theta \mathcal{L} (x | \theta') \cdot \pi (\theta') d \theta'}
+		% \end{equation*}
+	\end{frame}
+
+	\begin{frame}{What is a model?}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\textwidth]{images/Tong/ExtFig4.png}
+				\caption{Tong, Extended Fig 4:}
+				\label{fig:Tong Extended Fig 4}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{itemize}
+				\item Parametrise a measurement (eg mass or spin) 
+				\item Form a probability distribution to describe that population. 
+				\item They overlay a weighted distribution of the observations.
+				\item Provide an updated probaility distribution.
+				\item For example, the publicly available probability distribution models from GWPolution [Talbot, et al. (2024)]
+			\end{itemize}
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Main Finding from both paper}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\textwidth]{images/Tong/Fig1.png}
+				\caption{Tong, Fig 1:}
+				\label{fig:Tong Fig 1}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\textwidth]{images/Antonini/Fig1.png}
+				\caption{Antonini, Fig 1:}
+				\label{fig:Antonini Fig 1}
+			\end{figure}
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Additional Estimations made by Each Paper}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\textwidth]{images/"Parameter Estimation.png"}
+				\caption{Left: Figure 2 and 4 from Tong, Right: Figure 3 from Antonini}
+				\label{fig:Parameters}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			Estimation of the lower mass gap, $\tilde{m}$.
+
+			Estimation of the $^{12} C (\alpha , \gamma) ^{16} O$ rate at $300K$, $S_{300}$.
+
+			\textbf{Tong}
+			\begin{itemize}
+				\item $\tilde{m} =  44_{-4}^{+5} M_{\odot}$ 
+				\item $S_{300} = 260^{+190}_{-108}$ keV barns 
+			\end{itemize}
+			\textbf{Antonini}
+			\begin{itemize}
+				\item $\tilde{m} = 44.3^{+5.9}_{-3.5} M_{\odot}$
+				\item $S_{300} = 268^{+195}_{-116}$ keV barns 
+			\end{itemize}
+			Measurements at 90\% credibility
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Divergent Methods of Each Paper}
+		\begin{table}
+			\centering
+			\label{tab:methods}
+			\begin{tabular}{ll}
+				\textbf{Tong} & $\rightarrow$ Creates a model and tests the measurements obtained by it \\
+				 & \\
+				\textbf{Antonini} & $\rightarrow$ Contrains the parameters of the model thorugh direct calculation \\ 
+			\end{tabular}
+		\end{table}
+	\end{frame}
+	
+	\begin{frame}{Tong's Methods}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.8\textwidth]{images/Tong/ExtFig5.png}
+				\caption{Tong, Extended Fig 5:}
+				\label{fig:Tong Extended Fig 5}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{itemize}
+				\item Begins with an estimate of the lower mass gap
+				\item Estimates the spin transition mass
+				\item Updates estimation of the mass gap with a fixed spin transition
+			\end{itemize}
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Tong's Methods}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\textwidth]{images/Tong/Fig2.png}
+				\caption{Tong, Fig 2:}
+				\label{fig:Tong Fig 2}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{itemize}
+				\item Begins with an estimate of the lower mass gap
+				\item Estimates the spin transition mass
+				\item Updates estimation of the mass gap with a fixed spin transition
+			\end{itemize}
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Tong's Methods}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\textwidth]{images/Tong/ExtFig2.png}
+				\caption{Tong, Extended Fig 2:}
+				\label{fig:Tong Ext Fig 2}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{itemize}
+				\item They performed a posterior predictive check
+				\item Took their exisiting model and predicted what they should observe
+				\item Compared their predictions to the accuracte estimations
+			\end{itemize}
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Tong's Methods}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\textwidth]{images/Tong/ExtFig7.png}
+				\caption{Tong, Extended Fig 7:}
+				\label{fig:Tong Ext Fig 7}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{itemize}
+				\item Compare the effect of using simple and complex spin transition model
+				\item Consider the results as similar
+				\item Have taken preference to the simpler model for the sake of being simpler
+			\end{itemize}
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Antonini's Methods}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\textwidth]{images/Antonini/Fig2.png}
+				\caption{Antonini Fig. 2}
+				\label{fig:Antonini Fig 2}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{itemize}
+				\item Characterises the Spin distribution of the black holes above and below the transition mass
+				\item Provides two fitting models for above and below this PISN gap.
+				\item Used uncontrained model across total population with mixing paramter, saw natural progression between models at transition.
+				\item Two distinct distrubtions are inherently coming from the data and not the model.
+			\end{itemize}
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Antonini's Methods}
+		\begin{columns}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.7\textwidth]{images/Antonini/Fig4.png}
+				\caption{Antonini Fig. 4}
+				\label{fig:Antonini Fig 4}
+			\end{figure}
+		\end{column}
+		\begin{column}[T]{0.5\textwidth}
+			\begin{itemize}
+				\item Data driven observation of the isotropic spin poulations
+				\item High spin suggests merger event
+				\item Low spin suggests first generation black hole
+				\item Investigate qualitive comparisons to the merger rates
+			\end{itemize}
+		\end{column}
+		\end{columns}
+	\end{frame}
+
+	\begin{frame}{Limitations in the Methods}
+		\begin{enumerate}
+			\item Treatment of $^{12}C(\alpha , \gamma)^{16}O$ rate. Specifically in Tong
+			\item Consideration of Metalicity on position of mass gap
+			\item Weakness of spin measurements due to low intrument precision
+		\end{enumerate}
+	\end{frame}
+	
 	\begin{frame}{Appendix}
 		Appendix
 	\end{frame}

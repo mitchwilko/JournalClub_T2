@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.30)  17 JUL 2026 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.30)  17 JUL 2026 10:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -753,7 +753,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 24.
- (build/JC_Pres.out) (build/JC_Pres.out)
 \@outlinefile=\write5
 \openout5 = `JC_Pres.out'.
 
@@ -819,7 +818,7 @@ Package tikz-feynman Warning: LuaTeX is required if you wish to have vertices au
 Package chemgreek Info: Activating mapping `default' on line 24.
 
 (build/JC_Pres.nav)
-<images/unsw-landscape.png, id=37, 248.93pt x 107.40125pt>
+<images/unsw-landscape.png, id=13, 248.93pt x 107.40125pt>
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 24.
@@ -828,7 +827,7 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 28.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/unsw-portrait.png, id=39, 147.6717pt x 154.176pt>
+<images/unsw-portrait.png, id=15, 147.6717pt x 154.176pt>
 File: images/unsw-portrait.png Graphic file (type png)
 <use images/unsw-portrait.png>
 Package pdftex.def Info: images/unsw-portrait.png  used on input line 28.
@@ -865,12 +864,13 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 36.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
- (build/JC_Pres.toc)
+
+No file JC_Pres.toc.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 36.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
- [3
+[3
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
@@ -888,7 +888,7 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 50.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/starlifecycle.png, id=81, 1321.93875pt x 838.13126pt>
+<images/starlifecycle.png, id=41, 1321.93875pt x 838.13126pt>
 File: images/starlifecycle.png Graphic file (type png)
 <use images/starlifecycle.png>
 Package pdftex.def Info: images/starlifecycle.png  used on input line 50.
@@ -951,7 +951,7 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 93.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/SNEvolution.png, id=106, 1053.9375pt x 825.0825pt>
+<images/SNEvolution.png, id=70, 1053.9375pt x 825.0825pt>
 File: images/SNEvolution.png Graphic file (type png)
 <use images/SNEvolution.png>
 Package pdftex.def Info: images/SNEvolution.png  used on input line 93.
@@ -967,7 +967,7 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 114.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/BHGap.png, id=112, 1056.94875pt x 779.91376pt>
+<images/BHGap.png, id=76, 1056.94875pt x 779.91376pt>
 File: images/BHGap.png Graphic file (type png)
 <use images/BHGap.png>
 Package pdftex.def Info: images/BHGap.png  used on input line 114.
@@ -994,7 +994,7 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 137.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/binary.png, id=122, 771.88374pt x 433.62pt>
+<images/binary.png, id=90, 771.88374pt x 433.62pt>
 File: images/binary.png Graphic file (type png)
 <use images/binary.png>
 Package pdftex.def Info: images/binary.png  used on input line 137.
@@ -1010,7 +1010,7 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 161.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/interferometer.png, id=129, 963.6pt x 722.7pt>
+<images/interferometer.png, id=97, 963.6pt x 722.7pt>
 File: images/interferometer.png Graphic file (type png)
 <use images/interferometer.png>
 Package pdftex.def Info: images/interferometer.png  used on input line 161.
@@ -1037,12 +1037,12 @@ File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
 Package pdftex.def Info: images/unsw-landscape.png  used on input line 189.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/ligo.jpg, id=141, 812.928pt x 542.025pt>
+<images/ligo.jpg, id=111, 812.928pt x 542.025pt>
 File: images/ligo.jpg Graphic file (type jpg)
 <use images/ligo.jpg>
 Package pdftex.def Info: images/ligo.jpg  used on input line 189.
 (pdftex.def)             Requested size: 199.1693pt x 132.79314pt.
-<images/kagra.jpg, id=142, 903.375pt x 903.375pt>
+<images/kagra.jpg, id=112, 903.375pt x 903.375pt>
 File: images/kagra.jpg Graphic file (type jpg)
 <use images/kagra.jpg>
 Package pdftex.def Info: images/kagra.jpg  used on input line 189.
@@ -1078,35 +1078,386 @@ Package pdftex.def Info: images/unsw-landscape.png  used on input line 212.
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 216.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 228.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+[]\OT1/phv/m/n/10.95 Progressively im-proved mea-sure-
+ []
+
+
+Overfull \hbox (7.11374pt too wide) in paragraph at lines 228--228
+ [] 
+ []
+
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 216.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 228.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
- [17
+[17
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 226.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 242.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 226.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 242.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [18
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 240.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 265.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 240.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 265.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [19
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 287.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/Tong/ExtFig4.png' not found on input line 287.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:287: Package pdftex.def Error: File `images/Tong/ExtFig4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (39.05588pt too high) detected at line 287
+ []
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 287.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[20
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 308.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/Tong/Fig1.png' not found on input line 308.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:308: Package pdftex.def Error: File `images/Tong/Fig1.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.308 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `images/Antonini/Fig1.png' not found on input line 308.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:308: Package pdftex.def Error: File `images/Antonini/Fig1.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.308 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (39.05588pt too high) detected at line 308
+ []
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 308.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[21
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 338.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/"Parameter Estimation.png"' not found on input line 338.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:338: Package pdftex.def Error: File `images/Parameter Estimation.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (49.45587pt too high) detected at line 338
+ []
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 338.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[22
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 350.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 350.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+ [23
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 370.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/Tong/ExtFig5.png' not found on input line 370.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:370: Package pdftex.def Error: File `images/Tong/ExtFig5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.370 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 370.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[24
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 390.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/Tong/Fig2.png' not found on input line 390.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:390: Package pdftex.def Error: File `images/Tong/Fig2.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.390 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (39.05588pt too high) detected at line 390
+ []
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 390.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[25
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 410.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/Tong/ExtFig2.png' not found on input line 410.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:410: Package pdftex.def Error: File `images/Tong/ExtFig2.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.410 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (39.05588pt too high) detected at line 410
+ []
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 410.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[26
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 430.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/Tong/ExtFig7.png' not found on input line 430.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:430: Package pdftex.def Error: File `images/Tong/ExtFig7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.430 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (39.05588pt too high) detected at line 430
+ []
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 430.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[27
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 451.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/Antonini/Fig2.png' not found on input line 451.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:451: Package pdftex.def Error: File `images/Antonini/Fig2.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.451 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (39.05588pt too high) detected at line 451
+ []
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 451.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[28
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 472.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+
+
+LaTeX Warning: File `images/Antonini/Fig4.png' not found on input line 472.
+
+
+/Users/tobynguyen/Documents/Honours_2026/Journal_Club/JournalClub_T2/JC_Pres.tex:472: Package pdftex.def Error: File `images/Antonini/Fig4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.472 	\end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 472.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+[29
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 480.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 480.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+ [30
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 484.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 484.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+ [31
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 494.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 494.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+ [32
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 508.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 508.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+ [33
 
 ]
 \tf@nav=\write6
@@ -1123,22 +1474,32 @@ Package pdftex.def Info: images/unsw-landscape.png  used on input line 240.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `JC_Pres.out' has not changed.
-(rerunfilecheck)             Checksum: 85D099A6329497F3E73E2E9948C0A821;857.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `JC_Pres.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `JC_Pres.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  85D099A6329497F3E73E2E9948C0A821;857.
  ) 
 Here is how much of TeX's memory you used:
- 28855 strings out of 474116
- 606328 string characters out of 5743682
- 1940187 words of memory out of 5000000
- 50572 multiletter control sequences out of 15000+600000
- 588306 words of font info for 96 fonts, out of 8000000 for 9000
+ 29171 strings out of 474116
+ 615720 string characters out of 5743682
+ 1941187 words of memory out of 5000000
+ 50852 multiletter control sequences out of 15000+600000
+ 590107 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,123p,451b,1875s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on build/JC_Pres.pdf (19 pages, 9611088 bytes).
+ 128i,16n,123p,451b,1876s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on build/JC_Pres.pdf (33 pages, 9646383 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
