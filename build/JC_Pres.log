@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.30)  17 JUL 2026 11:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.30)  17 JUL 2026 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -674,30 +674,30 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use 
 \mhchem@option@minustextsidebearingleft=\dimen322
 \mhchem@option@minustextsidebearingright=\dimen323
 )
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 24.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 23.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 ) (build/JC_Pres.aux)
 \openout1 = `JC_Pres.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -752,53 +752,53 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 23.
  (build/JC_Pres.out) (build/JC_Pres.out)
 \@outlinefile=\write5
 \openout5 = `JC_Pres.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 24.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 23.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 24.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 24.
+(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 24.
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 24.
+(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/phv/m/it on input line 24.
+(Font)                  OT1/cmr/m/it --> OT1/phv/m/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/phv/m/it on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 24.
+(Font)                  OT1/cmr/bx/it --> OT1/phv/m/it on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 24.
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 24.
+(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 24.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/phv/b/n --> OT1/phv/b/n on input line 24.
+(Font)                  OT1/phv/b/n --> OT1/phv/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 24.
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 24.
+(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 23.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -813,515 +813,534 @@ Dictionary: translator-numbers-dictionary, Language: English
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 
-Package tikz-feynman Warning: LuaTeX is required if you wish to have vertices automatically placed. You can disable this warning by setting /tikzfeynman/warn luatex=false on input line 24.
+Package tikz-feynman Warning: LuaTeX is required if you wish to have vertices automatically placed. You can disable this warning by setting /tikzfeynman/warn luatex=false on input line 23.
 
 
-Package chemgreek Info: Activating mapping `default' on line 24.
+Package chemgreek Info: Activating mapping `default' on line 23.
 
 (build/JC_Pres.nav)
 <images/unsw-landscape.png, id=37, 248.93pt x 107.40125pt>
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 24.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 23.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 28.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 27.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/unsw-portrait.png, id=39, 147.6717pt x 154.176pt>
 File: images/unsw-portrait.png Graphic file (type png)
 <use images/unsw-portrait.png>
-Package pdftex.def Info: images/unsw-portrait.png  used on input line 28.
+Package pdftex.def Info: images/unsw-portrait.png  used on input line 27.
 (pdftex.def)             Requested size: 54.50473pt x 56.9055pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 28.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 28.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 28.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 27.
  [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./images/unsw-portrait.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 32.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 31.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  (build/JC_Pres.toc)
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 32.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 31.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [2
 
  <./images/unsw-landscape.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 36.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 35.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 36.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 35.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [3
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 46.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 45.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/starlifecycle.png, id=76, 1321.93875pt x 838.13126pt>
+<images/starlifecycle.png, id=75, 1321.93875pt x 838.13126pt>
 File: images/starlifecycle.png Graphic file (type png)
 <use images/starlifecycle.png>
-Package pdftex.def Info: images/starlifecycle.png  used on input line 46.
+Package pdftex.def Info: images/starlifecycle.png  used on input line 45.
 (pdftex.def)             Requested size: 239.00558pt x 151.53493pt.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 46.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 46.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 46.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 45.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 46.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 45.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [4
 
  <./images/starlifecycle.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 54.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 53.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 54.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 53.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [5
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 81.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 80.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 
 
-Package tikz-feynman Warning: The key you tried to use '/graph drawing/node distance' requires LuaTeX. It will be ignored. on input line 81.
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/node distance' requires LuaTeX. It will be ignored. on input line 80.
 
 
-Package tikz-feynman Warning: The key you tried to use '/graph drawing/level distance' requires LuaTeX. It will be ignored. on input line 81.
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/level distance' requires LuaTeX. It will be ignored. on input line 80.
 
 
-Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling distance' requires LuaTeX. It will be ignored. on input line 81.
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling distance' requires LuaTeX. It will be ignored. on input line 80.
 
 
-Package tikz-feynman Warning: The key you tried to use '/graph drawing/node distance' requires LuaTeX. It will be ignored. on input line 81.
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/node distance' requires LuaTeX. It will be ignored. on input line 80.
 
 
-Package tikz-feynman Warning: The key you tried to use '/graph drawing/level distance' requires LuaTeX. It will be ignored. on input line 81.
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/level distance' requires LuaTeX. It will be ignored. on input line 80.
 
 
-Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling distance' requires LuaTeX. It will be ignored. on input line 81.
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling distance' requires LuaTeX. It will be ignored. on input line 80.
 
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 81.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 80.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 [6
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 89.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 88.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/SNEvolution.png, id=100, 1053.9375pt x 825.0825pt>
+<images/SNEvolution.png, id=99, 1053.9375pt x 825.0825pt>
 File: images/SNEvolution.png Graphic file (type png)
 <use images/SNEvolution.png>
-Package pdftex.def Info: images/SNEvolution.png  used on input line 89.
+Package pdftex.def Info: images/SNEvolution.png  used on input line 88.
 (pdftex.def)             Requested size: 199.1693pt x 155.9112pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 89.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 88.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [7
 
  <./images/SNEvolution.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 110.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 107.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
-<images/BHGap.png, id=107, 1056.94875pt x 779.91376pt>
+<images/BHGap.png, id=106, 1056.94875pt x 779.91376pt>
 File: images/BHGap.png Graphic file (type png)
 <use images/BHGap.png>
-Package pdftex.def Info: images/BHGap.png  used on input line 110.
+Package pdftex.def Info: images/BHGap.png  used on input line 107.
 (pdftex.def)             Requested size: 191.20518pt x 141.08055pt.
+
+Overfull \vbox (3.35617pt too high) detected at line 107
+ []
+
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 110.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 107.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
- [8
+[8
 
  <./images/BHGap.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 125.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 122.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 125.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 122.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [9
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 133.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 130.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/binary.png, id=117, 771.88374pt x 433.62pt>
 File: images/binary.png Graphic file (type png)
 <use images/binary.png>
-Package pdftex.def Info: images/binary.png  used on input line 133.
+Package pdftex.def Info: images/binary.png  used on input line 130.
 (pdftex.def)             Requested size: 278.83578pt x 156.639pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 133.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 130.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [10
 
  <./images/binary.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 157.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 154.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/interferometer.png, id=124, 963.6pt x 722.7pt>
 File: images/interferometer.png Graphic file (type png)
 <use images/interferometer.png>
-Package pdftex.def Info: images/interferometer.png  used on input line 157.
+Package pdftex.def Info: images/interferometer.png  used on input line 154.
 (pdftex.def)             Requested size: 127.46687pt x 95.59738pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 157.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 154.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [11
 
  <./images/interferometer.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 166.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 163.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 166.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 163.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [12
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 185.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 182.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/ligo.jpg, id=135, 812.928pt x 542.025pt>
 File: images/ligo.jpg Graphic file (type jpg)
 <use images/ligo.jpg>
-Package pdftex.def Info: images/ligo.jpg  used on input line 185.
+Package pdftex.def Info: images/ligo.jpg  used on input line 182.
 (pdftex.def)             Requested size: 199.1693pt x 132.79314pt.
 <images/kagra.jpg, id=136, 903.375pt x 903.375pt>
 File: images/kagra.jpg Graphic file (type jpg)
 <use images/kagra.jpg>
-Package pdftex.def Info: images/kagra.jpg  used on input line 185.
+Package pdftex.def Info: images/kagra.jpg  used on input line 182.
 (pdftex.def)             Requested size: 159.33604pt x 159.33359pt.
+
+Overfull \vbox (9.6092pt too high) detected at line 182
+ []
+
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 185.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 182.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
- [13
+[13
 
  <./images/ligo.jpg> <./images/kagra.jpg>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 202.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 199.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--202
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []\OT1/phv/m/n/10.95 Progressively im-proved mea-sure-
  []
 
 
-Overfull \hbox (7.11374pt too wide) in paragraph at lines 202--202
+Overfull \hbox (7.11374pt too wide) in paragraph at lines 199--199
  [] 
  []
 
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 202.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 199.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 [14
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 216.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 213.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 216.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 213.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [15
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 239.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 236.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 239.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 236.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [16
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 261.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 258.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Tong/ExtFig4.png, id=159, 739.76375pt x 675.52374pt>
 File: images/Tong/ExtFig4.png Graphic file (type png)
 <use images/Tong/ExtFig4.png>
-Package pdftex.def Info: images/Tong/ExtFig4.png  used on input line 261.
+Package pdftex.def Info: images/Tong/ExtFig4.png  used on input line 258.
 (pdftex.def)             Requested size: 199.1693pt x 181.86815pt.
 
-Overfull \vbox (21.74377pt too high) detected at line 261
+Overfull \vbox (21.74377pt too high) detected at line 258
  []
 
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 261.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 258.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 [17
 
  <./images/Tong/ExtFig4.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 282.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 279.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Tong/Fig1.png, id=167, 855.195pt x 719.68875pt>
 File: images/Tong/Fig1.png Graphic file (type png)
 <use images/Tong/Fig1.png>
-Package pdftex.def Info: images/Tong/Fig1.png  used on input line 282.
+Package pdftex.def Info: images/Tong/Fig1.png  used on input line 279.
 (pdftex.def)             Requested size: 199.1693pt x 167.61142pt.
 <images/Antonini/Fig1.png, id=168, 963.6pt x 694.595pt>
 File: images/Antonini/Fig1.png Graphic file (type png)
 <use images/Antonini/Fig1.png>
-Package pdftex.def Info: images/Antonini/Fig1.png  used on input line 282.
+Package pdftex.def Info: images/Antonini/Fig1.png  used on input line 279.
 (pdftex.def)             Requested size: 199.1693pt x 143.55875pt.
 
-Overfull \vbox (7.48705pt too high) detected at line 282
+Overfull \vbox (7.48705pt too high) detected at line 279
  []
 
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 282.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 279.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 [18
 
  <./images/Tong/Fig1.png> <./images/Antonini/Fig1.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 312.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 309.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Parameter Estimation.png, id=179, 1021.8175pt x 832.10875pt>
 File: images/Parameter Estimation.png Graphic file (type png)
 <use images/Parameter Estimation.png>
-Package pdftex.def Info: images/Parameter Estimation.png  used on input line 312.
+Package pdftex.def Info: images/Parameter Estimation.png  used on input line 309.
 (pdftex.def)             Requested size: 199.1693pt x 162.19072pt.
 
-Overfull \vbox (12.46634pt too high) detected at line 312
+Overfull \vbox (12.46634pt too high) detected at line 309
  []
 
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 312.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 309.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 [19
 
  <./images/Parameter Estimation.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 324.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 321.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 324.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 321.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [20
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 344.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 341.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Tong/ExtFig5.png, id=195, 878.28125pt x 869.2475pt>
 File: images/Tong/ExtFig5.png Graphic file (type png)
 <use images/Tong/ExtFig5.png>
-Package pdftex.def Info: images/Tong/ExtFig5.png  used on input line 344.
+Package pdftex.def Info: images/Tong/ExtFig5.png  used on input line 341.
 (pdftex.def)             Requested size: 159.33604pt x 157.69131pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 344.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 341.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [21
 
  <./images/Tong/ExtFig5.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 364.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 361.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Tong/Fig2.png, id=203, 1022.82124pt x 668.4975pt>
 File: images/Tong/Fig2.png Graphic file (type png)
 <use images/Tong/Fig2.png>
-Package pdftex.def Info: images/Tong/Fig2.png  used on input line 364.
+Package pdftex.def Info: images/Tong/Fig2.png  used on input line 361.
 (pdftex.def)             Requested size: 199.1693pt x 130.16777pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 364.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 361.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [22
 
  <./images/Tong/Fig2.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 384.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 381.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Tong/ExtFig2.png, id=211, 762.85pt x 532.99126pt>
 File: images/Tong/ExtFig2.png Graphic file (type png)
 <use images/Tong/ExtFig2.png>
-Package pdftex.def Info: images/Tong/ExtFig2.png  used on input line 384.
+Package pdftex.def Info: images/Tong/ExtFig2.png  used on input line 381.
 (pdftex.def)             Requested size: 199.1693pt x 139.15189pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 384.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 381.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [23
 
  <./images/Tong/ExtFig2.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 404.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 401.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Tong/ExtFig7.png, id=219, 639.38875pt x 419.5675pt>
 File: images/Tong/ExtFig7.png Graphic file (type png)
 <use images/Tong/ExtFig7.png>
-Package pdftex.def Info: images/Tong/ExtFig7.png  used on input line 404.
+Package pdftex.def Info: images/Tong/ExtFig7.png  used on input line 401.
 (pdftex.def)             Requested size: 199.1693pt x 130.69197pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 404.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 401.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [24
 
  <./images/Tong/ExtFig7.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 425.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 422.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Antonini/Fig2.png, id=227, 1118.1775pt x 747.79375pt>
 File: images/Antonini/Fig2.png Graphic file (type png)
 <use images/Antonini/Fig2.png>
-Package pdftex.def Info: images/Antonini/Fig2.png  used on input line 425.
+Package pdftex.def Info: images/Antonini/Fig2.png  used on input line 422.
 (pdftex.def)             Requested size: 199.1693pt x 133.19359pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 425.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 422.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [25
 
  <./images/Antonini/Fig2.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 446.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 443.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 <images/Antonini/Fig4.png, id=236, 671.50874pt x 718.685pt>
 File: images/Antonini/Fig4.png Graphic file (type png)
 <use images/Antonini/Fig4.png>
-Package pdftex.def Info: images/Antonini/Fig4.png  used on input line 446.
+Package pdftex.def Info: images/Antonini/Fig4.png  used on input line 443.
 (pdftex.def)             Requested size: 139.4179pt x 149.2066pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 446.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 443.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [26
 
  <./images/Antonini/Fig4.png>]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 454.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 451.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 454.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 451.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [27
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 463.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 460.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 463.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 460.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [28
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 477.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 479.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 477.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 479.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [29
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 480.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 493.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 480.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 493.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [30
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 490.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 496.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 490.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 496.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [31
 
 ]
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 504.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 506.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
 File: images/unsw-landscape.png Graphic file (type png)
 <use images/unsw-landscape.png>
-Package pdftex.def Info: images/unsw-landscape.png  used on input line 504.
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 506.
 (pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
  [32
+
+]
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 520.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+File: images/unsw-landscape.png Graphic file (type png)
+<use images/unsw-landscape.png>
+Package pdftex.def Info: images/unsw-landscape.png  used on input line 520.
+(pdftex.def)             Requested size: 26.37581pt x 11.38092pt.
+ [33
 
 ]
 \tf@nav=\write6
@@ -1339,21 +1358,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `JC_Pres.out' has not changed.
-(rerunfilecheck)             Checksum: EC7DCA2AECDB67628F5AF9A71952012B;856.
+(rerunfilecheck)             Checksum: A88B54719FA1C8033AC22EF5AFA25D64;975.
  ) 
 Here is how much of TeX's memory you used:
- 29023 strings out of 474116
- 609986 string characters out of 5743682
- 1941187 words of memory out of 5000000
- 50701 multiletter control sequences out of 15000+600000
+ 29028 strings out of 474116
+ 610038 string characters out of 5743682
+ 1940187 words of memory out of 5000000
+ 50704 multiletter control sequences out of 15000+600000
  589939 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,123p,451b,1875s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on build/JC_Pres.pdf (32 pages, 12574252 bytes).
+Output written on build/JC_Pres.pdf (33 pages, 12576251 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
- 246 compressed objects within 3 object streams
- 83 named destinations out of 1000 (max. 500000)
+ 357 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
  198 words of extra memory for PDF output out of 10000 (max. 10000000)
 

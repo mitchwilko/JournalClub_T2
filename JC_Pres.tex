@@ -15,10 +15,9 @@
 %\setbeameroption{show notes on second screen}
 
 % information for the title page
-\author{Luke Wicent Sy}
-\title{UNSW Beamer Theme}
-\subtitle{An unofficial theme for University of New South Wales}
-\institute{Graduate School of Biomedical Engineering}
+\author{Mitch \& Toby}
+\title{Investigating the pair instability gap in black holes}
+\subtitle{Journal Club Presentation Week 7}
 \date{\today}
 
 \begin{document}
@@ -36,12 +35,12 @@
 	\end{frame}
 
 	\section{Stellar Theory}
-
-	\begin{frame}{Stellar Theory}
+	\subsection{Life cycle of stars and nuclear processes}
+	\begin{frame}{Life cycle of stars}
 		\begin{figure}
 			\centering
 			\includegraphics[width=0.6\textwidth]{images/starlifecycle.png}
-			\caption{Britannica. High-mass star $M>3$ M$_\odot$. Very high-mass star $M>8$ M$_\odot$}
+			\caption{Life cycle of a star (Image: Encyclopaedia Britannica). High-mass star $M>3$ M$_\odot$. Very high-mass star $M>8$ M$_\odot$}
 		\end{figure}
 	\end{frame}
 
@@ -84,11 +83,9 @@
 		\begin{figure}
 			\centering
 			\includegraphics[width=0.5\textwidth]{images/SNEvolution.png}
-			\caption{Binary}
+			\caption{ (Image: Renzo et al. [2020]). Original theory developed by Fraley (1968) describes quantitatively the nuclear processes in supermassive stars.}
 		\end{figure}
 	\end{frame}
-
-	\subsection{Black hole mass gap}
 
 	\begin{frame}{The black hole in black hole masses}
 		\begin{columns}[t]
@@ -96,14 +93,14 @@
 				\begin{figure}
 					\centering
 					\includegraphics[width=0.8\textwidth]{images/BHGap.png}
-					\caption{Phase diagram}
+					\caption{Diagram of metallicity vs initial mass displaying regions of potential remnants (Image: Heger et al. [2003])}
 				\end{figure}
 			\end{column}
 			\begin{column}[T]{0.4\textwidth}
 				\begin{itemize}
 					\item Higher metallicity enables stars to shed mass in the form of stellar winds
-					\item we just add the
-					\item bullet points.
+					\item No hydrogen envelope allows for greater material expulsion
+					\item The behaviour of the death of a star depends greatly on the metallicity and initial mass
 				\end{itemize}
 			\end{column}
 		\end{columns}
@@ -128,7 +125,7 @@
 		\begin{figure}
 			\centering
 			\includegraphics[width=0.7\textwidth]{images/binary.png}
-			\caption{Binary}
+			\caption{Illustration of binary black hole system (Image: LIGO/Caltech)}
 		\end{figure}
 	\end{frame}
 
@@ -150,7 +147,7 @@
 				\begin{figure}
 					\centering
 					\includegraphics[width=0.8\textwidth]{images/interferometer.png}
-					\caption{Phase diagram}
+					\caption{Diagram of simple Michelson interferometer (Image: LIGO/Caltech)}
 				\end{figure}
 			\end{column}
 		\end{columns}
@@ -171,14 +168,14 @@
 				\begin{figure}
 					\centering
 					\includegraphics[width=\textwidth]{images/ligo.jpg}
-					\caption{Phase diagram}
+					\caption{Photo of LIGO interferometer (Image: LIGO/Caltech)}
 				\end{figure}
 			\end{column}
 			\begin{column}[T]{0.5\textwidth}
 				\begin{figure}
 					\centering
 					\includegraphics[width=0.8\textwidth]{images/kagra.jpg}
-					\caption{Phase diagram}
+					\caption{Illustration of underground KAGRA interferometer (Image: Sandbox Studio)}
 				\end{figure}
 			\end{column}
 		\end{columns}
@@ -460,6 +457,25 @@
 		\item Tong shows that the gap only appears in the secondary mass of a binary system. Previous studies only showed that hierachical mergers fill the gap and were unable to separate the two components of the system like Tong does.
 		\item Antonini verifies a prediction made by general relativity by fixing a universal parameters and developing a model to predict the existence of the gap based on just one fixed assumption.
 	\end{itemize}
+\end{frame}
+
+\begin{frame}{Shortfalls and further research}
+	Ultimately this paper is only a qualitative proof of technique paper. The error bars on the lower bound of the mass gap and the reaction rate are quite high, 
+	\begin{figure}
+		\textbf{Tong}
+		\begin{itemize}
+			\centering
+			\item $\tilde{m} =  44_{-4}^{+5} M_{\odot}$ 
+			\item $S_{300} = 260^{+190}_{-108}$ keV barns 
+		\end{itemize}
+		\textbf{Antonini}
+		\begin{itemize}
+			\centering
+			\item $\tilde{m} = 44.3^{+5.9}_{-3.5} M_{\odot}$
+			\item $S_{300} = 268^{+195}_{-116}$ keV barns 
+		\end{itemize}
+	\end{figure}
+	Sample size of the newest catalog is only 153 so further additions  along with developments of the current analytical techniques will improve the constraints greatly.
 \end{frame}
 
 \begin{frame}{Impact on physics}

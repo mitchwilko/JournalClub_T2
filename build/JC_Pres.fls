@@ -839,6 +839,14 @@ INPUT ./images/unsw-landscape.png
 INPUT ./images/unsw-landscape.png
 INPUT ./images/unsw-landscape.png
 INPUT ./images/unsw-landscape.png
+INPUT ./images/unsw-landscape.png
+INPUT ./images/unsw-landscape.png
+INPUT ./images/unsw-landscape.png
+INPUT ./images/unsw-landscape.png
+INPUT ./images/unsw-landscape.png
+INPUT ./images/unsw-landscape.png
+INPUT ./images/unsw-landscape.png
+INPUT ./images/unsw-landscape.png
 OUTPUT build/JC_Pres.nav
 OUTPUT build/JC_Pres.toc
 OUTPUT build/JC_Pres.snm
