@@ -9,6 +9,7 @@
 ]{unsw}
 \usepackage[compat=1.1.0]{tikz-feynman}
 \usepackage[version=4]{mhchem}
+\setbeamertemplate{caption}[numbered]
 % uncomment to show notes. Works very nicely with dspdfviewer. You get something similar to PPT's presenter view.
 %\usepackage{pgfpages}
 %\setbeameroption{show notes on second screen}
@@ -49,7 +50,7 @@
 	\end{frame}
 
 	\begin{frame}{Nuclear Processes}
-		The main nuclear reaction in metal-poor or metal-free stars is the triple alpha process, the starting reaction is given as
+		The main nuclear reaction in metal-poor or metal-free stars is the triple alpha process, which produces carbon, $3\alpha \rightarrow \ce{^{12}_6C}$. This carbon can be then be used for oxygen production,
 		\begin{equation}
 			\ce{^{12}_6C + ^{4}_2He -> ^{16}_8O + {\gamma}} 
 		\end{equation}
@@ -83,11 +84,15 @@
 		\end{figure}
 	\end{frame}		
 
-	\subsection{Black hole mass gap}
-
-	\begin{frame}{Collapse and explosion}
-		As the star contracts, the energy release by oxygen burning is increased. This energy is released as a shock wave which can accelerate material above the escape velocity. Depending on the mass of the star, this 'pulse' can lead to a failed supernova or complete expulsion of the star's matter, leaving no remnants, including a black hole, behind. The failed supernova is called a pulsational pair-instability supernova (PPISN). 
+	\begin{frame}{Pair Instability Supernova}
+		\begin{figure}
+			\centering
+			\includegraphics[width=0.5\textwidth]{images/SNEvolution.png}
+			\caption{Binary}
+		\end{figure}
 	\end{frame}
+
+	\subsection{Black hole mass gap}
 
 	\begin{frame}{The black hole in black hole masses}
 		\begin{columns}[t]
@@ -111,7 +116,16 @@
 	\subsection{Gravitational waves}
 
 	\begin{frame}{Black hole spin}
-		
+		Solutions to the Einstein field equations predict that black holes can be described using angular momentum. 
+		\begin{itemize}
+			\item Known as a Kerr black hole
+			\item These rotating black holes can form from collisions or merging with spinning objects such as stars or gas.
+			\item The Kerr metric is parameterised with angular momentum, $\chi$.
+			\item In the limit of $\chi\rightarrow 0$, the Kerr metric reduces to the Schwarzschild metric.
+		\end{itemize} Black hole merger remnants are expected to have nearly universal spin magnitude 
+		\begin{equation}
+			\chi = a_{\text{rem}} \approx 0.7
+		\end{equation}
 	\end{frame}
 
 	\begin{frame}{Binary systems and gravitational waves}
@@ -147,11 +161,12 @@
 	\end{frame}
 
 	\begin{frame}{LIGO-Virgo-KAGRA}
-		The Gravitational Wave Transients Catalog is consists of data obtained by three interferometers: LIGO, Virgo and KAGRA. 
+		The Gravitational Wave Transients Catalog (GWTC) is consists of data obtained by three interferometers: LIGO, Virgo and KAGRA. 
 		\begin{itemize}
 			\item LIGO has two observatories based in the US. Each interferometer has mirrors spaced 4 km apart in order to measure changes in length of less than one ten-thousandth the charge diameter of a proton.
 			\item Virgo (Italy) and KAGRA (Japan) have interferometers with mirrors spaced 3 km apart.
 		\end{itemize}
+		The newest catalog, GWTC-4, provides the mass and effective spin from 153 events.
 	\end{frame}
 
 	\begin{frame}{Instruments}
@@ -173,45 +188,27 @@
 		\end{columns}
 	\end{frame}
 
-	\begin{frame}{The authors}
-		\begin{figure}
-			\centering
-			\includegraphics[width=0.8\textwidth]{images/tong_paper.png}
-			\caption{Phase diagram}
-		\end{figure}
-	\end{frame}
-
-	\begin{frame}{The authors}
-		\begin{figure}
-			\centering
-			\includegraphics[width=0.8\textwidth]{images/fabio_paper.png}
-			\caption{Phase diagram}
-		\end{figure}
-	\end{frame}
-
-	\section{Results}
-
-	\begin{frame}{Results}
-		show both mass gaps
-	\end{frame}
-
-	\section{Statistical Methods}
-
-	\begin{frame}{Assumptions and experimental technique}
-		
-	\end{frame}
-
 	\section{Achievements}
 	\begin{frame}{Novel findings}
-		
+		Both papers agree on the lower bound of the mass gap and the reaction rate. They provide contraints on these parameters enabling better models for stellar evolution. The innovation of these papers are:
+		\begin{itemize}
+			\item Tong shows that the gap only appears in the secondary mass of a binary system. Previous studies only showed that hierachical mergers fill the gap and were unable to separate the two components of the system like Tong does.
+			\item Antonini verifies a prediction made by general relativity by fixing a universal parameters and developing a model to predict the existence of the gap based on just one fixed assumption.
+		\end{itemize}
 	\end{frame}
 
-	\begin{frame}{Impact on astrophysics and cosmology}
-		
-	\end{frame}
-
-	\begin{frame}{Shortfalls and further research needed}
-		
+	\begin{frame}{Impact on physics}
+		If the $^{12}$C$(\alpha,\gamma)^{16}$O reaction rate was precisely measured then:
+		\begin{itemize}
+			\item The ratio of $^{12}$C/$^{16}$O in the universe can be determined
+			\item This reaction is responsible for the production of oxygen in the universe
+			\item Reveals the nucleosynthesis process in the first stars 
+		\end{itemize}
+		The pair instability gap can be used as a \textit{standard siren}
+		\begin{itemize}
+			\item The gravitational waveform can carry information about the distance
+			\item This enables better measurements for the rate of universe expansion and the Hubble parameter.
+		\end{itemize}
 	\end{frame}
 
 	\begin{frame}{Appendix}
