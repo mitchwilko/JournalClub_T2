@@ -66,9 +66,7 @@ So what did these papers seek to accomplish?
 
 ## Both papers
     - Relied on a bayesian inference statistics to make claims of the population
-    
-
-# Objectives
+        
 
 # Results
 

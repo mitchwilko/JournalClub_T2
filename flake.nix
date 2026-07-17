@@ -2,7 +2,7 @@
   description = "LaTeX development shell";
 
   inputs = {
-    inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
   };
 
   outputs = { self, nixpkgs }:
@@ -22,6 +22,7 @@
         default = pkgs.mkShell {
           packages = with pkgs; [
             gnumake
+            python3
             (texlive.combine {
               inherit (texlive)
                 scheme-medium
